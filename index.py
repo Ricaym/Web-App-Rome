@@ -1,1 +1,1 @@
-import numpy as np
+print('Bienvenue sur Internet')
